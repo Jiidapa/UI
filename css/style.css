@@ -93,7 +93,23 @@
     margin-top: -2%;
     font-size: 10px;
     color: gray;   
-}
+  }
+  .font-detail3{
+    margin-top: -3%;
+    font-size: 10px;
+    color: gray;  
+    margin-bottom: -3%; 
+  }
+  .font-detail4{
+    margin-top: -7%;
+    font-size: 12px;
+    margin-bottom: -3%;
+    color: gray; 
+    line-height: 1.7;
+  }
+  .logo2{
+      width: 20px;
+  }
 
   .img-size-profile2{
     border-radius: 50% !important;
@@ -169,6 +185,14 @@
   .top5{
       margin-top: -2%;
   }
+
+  .top6{
+    margin-top: 5%;
+  }
+
+  .top7{
+    margin-top: 2%;
+  }
   .ad{
     width: 370px;
     border-radius: 8px;
@@ -176,6 +200,7 @@
     -moz-box-shadow: -2px 5px 9px -5px rgba(0,0,0,0.54);
     box-shadow: -2px 5px 9px -5px rgba(0,0,0,0.54);
   }
+  
   
   .container1 {
     position: relative;
@@ -210,3 +235,58 @@
 .container1 .btn2:hover {
     background-color: rgb(255, 182, 86);
 }
+
+.font-name{
+    margin-top: 5%;
+    margin-left: 10%;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Yantramanav', sans-serif;
+    line-height: 1.1;
+    color: rgb(3, 111, 184);    
+}
+.font-content{
+    margin-top:-5%;
+    margin-left: 10%;
+    font-size: 12px;
+    font-weight: 300;
+    font-family: 'Yantramanav', sans-serif;
+    line-height: 1.1;
+    color: rgb(172, 172, 172);  
+}
+
+.icon2{
+    width:40px;
+}
+
+.font-badges{
+    margin-top:-5%;
+    font-size: 15px;
+    font-weight: 300;
+    font-family: 'Yantramanav', sans-serif;
+    line-height: 1.1;
+    color: rgb(71, 71, 71);  
+}
+.font-badges2{
+    margin-top:-5%;
+    margin-left: 2%;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Yantramanav', sans-serif;
+    line-height: 1.1;
+    color: rgb(3, 111, 184);  
+    margin-right: 3%;
+}
+.font-badges3{
+    margin-top:-5%;
+    margin-left: 2%;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Yantramanav', sans-serif;
+    line-height: 1.1;
+    color: #333;
+}
+.b-margin{
+    margin-bottom: -7%;
+}
+
